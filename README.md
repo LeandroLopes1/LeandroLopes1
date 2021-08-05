@@ -1,6 +1,6 @@
 ### Olá! Eu sou Leandro Lopes 👋
 
-- 🌱 Hoje estudo na Trybe
+- 🌱 Hoje estudo na Trybe - Escola de desenvolvimento web.
 
 <img src="https://komarev.com/ghpvc/?username=LeandroLopes1&color=green" alt="LeandroLopes1" />
 
