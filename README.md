@@ -5,13 +5,14 @@
 
 - 📫 How to reach me **leandro_carlos@uol.com.br**
 
-<img src="https://komarev.com/ghpvc/?username=LeandroLopes1&color=green" alt="LeandroLopes1" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leandroclopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LeandroLopes1" height="30" width="40" /></a>
 </p>
 
+
+<img src="https://komarev.com/ghpvc/?username=LeandroLopes1&color=green" alt="LeandroLopes1" />
 
  <div>
   <a href="https://github.com/LeandroLopes1">
