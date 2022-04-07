@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **leandro_carlos@uol.com.br**
 
+- 👨‍💻 My Portfólio [https://leandrolopes1.github.io/](https://leandrolopes1.github.io/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
