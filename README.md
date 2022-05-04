@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro!</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **Python** and **Java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **leandro_carlos@uol.com.br**
 
